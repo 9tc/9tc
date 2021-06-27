@@ -1,6 +1,7 @@
 本やら音ゲーやら料理やらが好きです．
 
 大学院ではグラフアルゴリズム(現在はパス分解)の研究をしています．
+WEBアプリケーション・ECに興味があります．
 
 - AtCoder : https://atcoder.jp/users/dokaraya
 - Hatena Blog : https://dokaraya.hatenablog.com/ 
