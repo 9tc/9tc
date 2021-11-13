@@ -1,7 +1,7 @@
 本やら音ゲーやら料理やらが好きです．
 
-大学院ではグラフアルゴリズムの研究をしています．
-アルゴリズム・WEBアプリケーションに興味があります．
+大学院では組合せ最適化に関する研究をしています．
+組合せ最適化を用いたプロダクトの作成に興味があります．
 
 - AtCoder : https://atcoder.jp/users/dokaraya
 - Hatena Blog : https://dokaraya.hatenablog.com/ 
