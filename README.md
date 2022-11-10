@@ -1,8 +1,5 @@
 本やら音ゲーやら料理やらが好きです．
 
-大学院では組合せ最適化に関する研究をしています．
-最適化を用いたプロダクトの作成に興味があります．
-
 - AtCoder : https://atcoder.jp/users/dokaraya
 - Hatena Blog : https://dokaraya.hatenablog.com/ 
 - Qiita : https://qiita.com/9tc (未投稿)
